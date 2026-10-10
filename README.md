@@ -1,5 +1,3 @@
-<img src="assets/workbench.png" alt="A pixel-art workbench with a terminal, tiled desktop windows, and a tiny tree companion" width="100%">
-
 # Hey, I'm Chris.
 
 I build tools that make my computer work the way I want—macOS utilities, terminal apps, and the occasional unnecessarily thorough RuneScape calculator.

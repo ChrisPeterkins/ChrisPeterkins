@@ -1,6 +1,6 @@
 # Hey, I'm Chris.
 
-I build tools that make my computer work the way I want—macOS utilities, terminal apps, and the occasional unnecessarily thorough RuneScape calculator.
+I build tools that make my computer work the way I want: macOS utilities, terminal apps, and the occasional unnecessarily thorough RuneScape calculator.
 
 **Swift · Go · TypeScript · JavaScript** &nbsp; / &nbsp; [chrispeterkins.com](https://chrispeterkins.com)
 
